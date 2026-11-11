@@ -22,8 +22,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Gbr404&amp;include_all_commits=true&amp;show_icons=true&amp;hide_rank=true&amp;theme=tokyonight" alt="Estatísticas do GitHub de Gabriel" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gbr404&amp;layout=pie&amp;langs_count=8&amp;theme=tokyonight" alt="Gráfico das linguagens mais utilizadas" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api?username=Gbr404&amp;include_all_commits=true&amp;show_icons=true&amp;hide_rank=true&amp;theme=tokyonight" alt="Estatísticas do GitHub de Gabriel" />
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gbr404&amp;layout=pie&amp;langs_count=8&amp;theme=tokyonight" alt="Gráfico das linguagens mais utilizadas" />
 </p>
 
 ---
